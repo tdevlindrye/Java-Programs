@@ -1,5 +1,3 @@
-//This code is my own, but I did use code I wrote in a previous class to help with this one.
-
 import java.util.Scanner;
 
 public class SumByColumn {
