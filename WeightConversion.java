@@ -1,5 +1,3 @@
-// I used an assignment I completed from a previous class to help guide me through this one
-
 public class WeightConversion {
 
 	public static void main(String[] args) {
