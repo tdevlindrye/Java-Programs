@@ -1,5 +1,3 @@
-// I used an assignment I completed from a previous class to help guide me through this one
-
 import java.util.Scanner;
 
 public class Discriminant {
