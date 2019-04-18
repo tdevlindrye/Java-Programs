@@ -1,5 +1,3 @@
-//This work is my own, but I did use multiple Google searches to help me figure it out.
-
 import java.util.Scanner;
 
 
