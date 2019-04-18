@@ -1,5 +1,3 @@
-//This code is my own, but I did use an example from a Google search to help as a guide
-
 import java.util.Scanner;
 
 public class LatinSquares {
